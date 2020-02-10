@@ -1,0 +1,142 @@
+
+body{
+    background-color:#bae8e8;
+    font-family: "cursive";
+  }
+   /*hr{
+    border-color: grey;
+    width: 5%;
+    border-width: 5px;
+    border-style: none;
+    border-top-style: dotted;
+  } */
+  .front-page {
+    padding: 5%;
+    border: 2px solid #9d0b0b;
+  }
+  .sec-page {
+    padding: 5%;
+    border: 5px solid #0000ff;
+  }
+  h1
+  {
+    text-decoration: underline;
+    font-family: cursive;
+    color: black;
+    font-size: 50px;
+  }
+  p {
+    font-size: 25px;
+    text-align: left;
+  }
+  .selected {
+      font-size: 25px;
+  }
+  h2 {
+      font-size: 50px;
+      text-decoration: underline;
+      text-align: center;
+  }
+  .learn {
+      font-size: 30px;
+  }
+  .what {
+      font-size: 40px;
+  }
+  .lesson {
+    font-size: 30px;
+    text-align: left;
+    color: #c81912;
+  }
+  .next {
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: Segoe UI;
+  }
+  h4 {
+    font-size: 25px;
+  }
+  a {
+    font-size: 20px;
+    color: #00ff;
+  }
+  .cprog {
+    text-align: center;
+    font-family: Lucida Sans;
+  }
+  .attribute {
+    height: 500px;
+    weight: 500px;
+  }
+h3
+{
+color: black;
+font-family: Gill Sans;
+font-size: 25px;
+}
+.guide {
+text-align: center;
+font-family:  Helvetica;
+font-size: 30px;
+text-decoration: underline;
+}
+.front-img{
+text-align: center;
+border-radius: 50%;
+border: 1px solid #ddd;
+padding-top: 30px;
+width: 400px;
+height: auto;
+}
+
+td{
+padding: 2px;
+}
+
+.div{
+text-align: center;
+padding: 1%;
+}
+/*.header{
+text-align: center;
+} */
+
+.c-page{
+  padding: 5%;
+  border: 5px solid #00909e;
+}
+
+.button-front{
+  margin: 5% 3% 5% 0;
+  background-color: #ffc2c2;
+  border: 1px solid black;
+  border-radius: 50px;
+  color:#0000ff;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;  
+}
+h5 {
+  font-size: 25px;
+}
+h6 {
+  font-size: 22px;
+  text-decoration: underline;
+  font-family: arial;
+}
+.web-link {
+  font-size: 20px;
+  font-family: cursive;
+  color: #000;
+}
+.c++-page {
+ padding: 5%;
+ border: 5px solid #00909e;
+}
+.strong {
+  color: #9d0b0b;
+  font-size: 20px;
+}
